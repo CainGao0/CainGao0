@@ -4,27 +4,43 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>几年数据相关行业生涯，一直从事在数据采集、数据爬取、数据处理/数据分析岗位上。从未偏离方向。有时觉得成就感太低，不知道其他程序猿或者是数据
-相关行业的同学也有同样的想法。所以工作之余总是喜欢折腾。学到的很少、搞定的也比较少。保持谦卑、保持专注吧！</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>有时候希望能够写一些自己喜欢的东西、或者是工作中遇到的各种问题。欢迎有同样问题或者困惑的进行关注！</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>涉及</h2>
+<h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>数据分析</li>
-	<li>数据采集</li>
-	<li>数据处理</li>
-	<li>终端开发</li>
-	<li>Web开发</li>
+	<li>HTML - Jade - Haml - Erb</li>
+	<li>Responsive (Mobile First)</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript (Design Patterns, Testes)</li>
+	<li>NodeJS</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Grunt - Gulp - Yeoman</li>
+	<li>Git</li>
+	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scala</li>
-	<li>...</li>
+	<li>Scrum and Kanban</li>
+	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>了解我</h2>
+<h2>Projects</h2>
 
 <ul>
-	<li><img src="assets/images/qrcode_for_gh_c5dfe9b20d1b_258.jpg" alt=""/></li>
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
