@@ -33,6 +33,20 @@ layout: main
         </div>
       </div>
       {% include disqus.html %}
-    </div> <!-- End Wrap Content -->
+    </div>
+    <div id="container"></div>
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+    <script>
+      var gitment = new Gitment({
+        owner: 'CainGao0',
+        repo: 'caingao0.github.io',
+        oauth: {
+          client_id: '57c14b686b63ce17ed05',
+          client_secret: '698bb22fdfd6a6b16139589235d4555f0ac02f56',
+        },
+      })
+      gitment.render('container')
+    </script><!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
