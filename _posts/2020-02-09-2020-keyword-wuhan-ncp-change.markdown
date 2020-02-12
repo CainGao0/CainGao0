@@ -2,7 +2,7 @@
 layout: post
 title: 2020关键词:武汉肺炎、裁员、改变！
 date: 2020-02-09 00:00:00 +0300
-description: 020年02月09号，抗击武汉肺炎中。明天就要复工！
+description: 2020年02月09号，抗击武汉肺炎中。明天就要复工！
 img: software.jpg # Add image post (optional)
 tags: [2020, 胡思乱想] # add tag
 ---

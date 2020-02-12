@@ -1,3 +1,11 @@
+---
+layout: post
+title: 为什么用日志库而不是print进行日志输出
+date: 2020-02-12 00:00:00 +0300
+description: 你是否也用了很久的log4j但是不知道为啥?
+img: mac.jpg # Add image post (optional)
+tags: [基础技能] # add tag
+---
 
 **你是否也用了很久的log4j但是不知道为啥?**
 
