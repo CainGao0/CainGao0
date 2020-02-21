@@ -18,9 +18,6 @@ social-github: caingao0 # add your Github handle
 social-linkedin: caingao # add your Linkedin handle
 social-email: server@anydata.top # add your Email address
 
-# Tracker
-analytics: # Google Analytics
-
 # Build Settings
 markdown: kramdown
 plugins:
