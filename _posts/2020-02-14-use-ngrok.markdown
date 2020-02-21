@@ -3,7 +3,7 @@ layout: post
 title: 仅需两步实现内网端口映射
 date: 2020-02-14 00:00:00 +0300
 description: 本地调试不是梦!简单、方便、快捷！?
-img: mac.jpg # Add image post (optional)
+img: how-to-start.jpg # Add image post (optional)
 tags: [基础技能] # add tag
 ---
 昨天做好了https的连接，从智能音箱开发者后台配置了请求地址。一切ok，但是通过服务器调试仍然很麻烦。开发完成部署到服务器。开发者后台测试，失败。反复来搞太麻烦了。做过微信公众号开发的同学应该明白这个过程。  
