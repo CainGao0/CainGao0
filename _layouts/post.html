@@ -37,7 +37,15 @@ layout: main
     <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
     <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
     <script>
+      var title_length ='{{ page.title }}'.length;
+      var title = ""
+      if (title_length < 50 && '{{ page.title }}'.indexOf(",")== -1){
+        title = "{{ page.title }}";
+      }else{
+        title = "{{ page.date }}"
+      }
       var gitment = new Gitment({
+        id: title,
         owner: 'CainGao0',
         repo: 'caingao0.github.io',
         oauth: {
