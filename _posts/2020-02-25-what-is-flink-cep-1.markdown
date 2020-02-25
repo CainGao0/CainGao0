@@ -3,7 +3,7 @@ layout: post
 title: 什么是Flink CEP (1)
 date: 2020-02-21 00:00:00 +0300
 description: 什么是Flink CEP (1)
-img: grafana.png # Add image post (optional)
+img: flink.jpg # Add image post (optional)
 tags: [Flink] # add tag
 ---
 复杂事件处理(CEP)既是把不同的数据看做不同的事件，并且通过分析事件之间的关系建立起一套事件关系序列库。利用过滤，聚合，关联性，依赖，层次等技术，最终实现由简单关系产生高级事件关系。  
@@ -11,6 +11,8 @@ tags: [Flink] # add tag
 复杂事件处理当前主要用于信用卡欺诈检测、用户风险检测、设备故障检测、攻击行为分析等领域。  
 
 Apache Flink中基于DataSet Api提供了FlinkCEP的组件栈，专门应用与复杂事件处理方向。Apache Flink另外也为机器学习方向提供了Flink ML和图计算方向的Gelly组件栈。今天主要来看一下Flink CEP。
+
+![Variables]({{site.baseurl}}/assets/img/cep.png)
 
 ##  Flink CEP环境准备
 在开始之前需要先引入Flink-CEP的依赖库。maven如下
@@ -53,6 +55,7 @@ Apache Flink中基于DataSet Api提供了FlinkCEP的组件栈，专门应用与�
         该种情况知道初始状态，以及要发生的动作，预测未知的结果。
 ##  CEP常用场景
 Flink CEP能够利用的场景较多，在实际业务场景中也有了广泛的使用案例与经验积累。 CEP常用与网络攻击检测、风控模型、信用卡欺诈等。
+![Variables]({{site.baseurl}}/assets/img/security.jpg)
 *   网络攻击检测  
     基于实时的数据流来进行网络攻击检测。例如常见的拖库行为产生的突发SQL扫描或网络带宽突增均能通过CEP来进行判定。  
     例如常见规则：当带宽突增、数据库资源用量突然变高时直接进行预警。
