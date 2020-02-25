@@ -12,17 +12,7 @@ tags: [Flink] # add tag
 
 Apache Flink中基于DataSet Api提供了FlinkCEP的组件栈，专门应用与复杂事件处理方向。Apache Flink另外也为机器学习方向提供了Flink ML和图计算方向的Gelly组件栈。今天主要来看一下Flink CEP。
 
-![Variables]({{site.baseurl}}/assets/img/cep.png)
-
-##  Flink CEP环境准备
-在开始之前需要先引入Flink-CEP的依赖库。maven如下
-```
-<dependency>
-  <groupId>org.apache.flink</groupId>
-  <artifactId>flink-cep-scala_2.11</artifactId>
-  <version>1.10.0</version>
-</dependency>
-```
+![CEP]({{site.baseurl}}/assets/img/cep.png)
 
 ##  基本概念
 1.  事件定义
