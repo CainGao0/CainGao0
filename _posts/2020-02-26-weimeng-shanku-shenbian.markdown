@@ -24,7 +24,7 @@ tags: [胡思乱想] # add tag
 ：‘X哥，你看这是咋啦？’    
 leader回头看了一眼发现一切都已经空了...一脸黑线的问：你干啥了？  
 **rm -rf /***  
-![回车确认!]({{site.baseurl}}/assets/img/weimeng.png)  
+![回车确认!]({{site.baseurl}}/assets/img/rm.png)  
 当天晚上两个人都没回家，当时还没有客户使用，并且还是晚上。所以影响不大，四个小时恢复。
 
 ##  核心研发 删除数据库 3小时恢复
