@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Grafana中使用Variables
+title: 在Grafana中使用Variables(Global Variables)
 date: 2020-02-21 00:00:00 +0300
 description: 使用Variables来更好的使用Grafana(2)
 img: grafana.png # Add image post (optional)
