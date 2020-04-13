@@ -3,7 +3,7 @@ layout: post
 title: 深夜,使用NSFW测一下鉴黄
 date: 2020-04-13 00:00:00 +0300
 description: 使用Tensorflow-NSFW测试一下图片鉴黄
-img: grafana.png # Add image post (optional)
+img: cangjingkong.jpeg # Add image post (optional)
 tags: [Tensorflow, NSFW] # add tag
 ---
 ![导师]({{site.baseurl}}/assets/img/cangjingkong.jpeg)
