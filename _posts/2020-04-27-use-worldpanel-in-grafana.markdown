@@ -3,7 +3,7 @@ layout: post
 title: Grafana的WorldMapPanel实现世界地图的分析展现
 date: 2020-04-27 00:00:00 +0300
 description: worldmap-panel插件的使用 
-img: mac.jpg # Add image post (optional)
+img: grafana-worldmap-panel-res.png # Add image post (optional)
 tags: [基础技能] # add tag
 ---
 
