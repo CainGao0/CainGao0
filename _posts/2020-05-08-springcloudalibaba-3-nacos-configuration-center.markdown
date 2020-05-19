@@ -95,7 +95,7 @@ spring.profiles.active=dev
 ![]({{site.baseurl}}/assets/img/springcloudalibaba/3/nacos_web_config_test_refresh.png)
 
 至此使用Nacos作为配置中心已经完全搞定,并且也实现了多环境的配置。多环境有几种方式实现，但是我依然习惯使用namespace的方式来实现。    
-**源码:**
+**本篇源码示例:**
 ```
 https://github.com/CainGao/SpringCloudAlibabaExample  
 ```
