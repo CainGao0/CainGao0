@@ -3,7 +3,7 @@ layout: post
 title: SpringCloudAlibaba(五):SpringCloudAlibaba+Dubbo实践
 date: 2020-05-20 00:00:00 +0300
 description: SpringCloudAlibaba(五)
-img: 5/dubbo_white.png # Add image post (optional)
+img: springcloudalibaba/5/dubbo_white.png # Add image post (optional)
 tags: [SpringCloudAlibaba] # add tag
 ---
 SpringCloud与Dubbo两个框架一直以来都被用来作为两种框架进行比较，其实对于两者之间进行比较是不公平的。SpringCloud可以说是一套完整的解决方案而Dubbo其实只是一种RPC和服务治理的实现方案。  

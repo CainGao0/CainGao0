@@ -3,7 +3,7 @@ layout: post
 title: SpringCloudAlibaba(四)：使用Nacos作为注册中心
 date: 2020-05-09 00:00:00 +0300
 description: SpringCloudAlibaba(四)
-img: show-to-start.jpg # Add image post (optional)
+img: mac.jpg # Add image post (optional)
 tags: [SpringCloudAlibaba] # add tag
 ---
 前一篇已经写到了利用Nacos作为配置中心来构建一个项目，毕竟需求有很大一部分的比重就是配置中心。所以就先利用Nacos构建了基于配置中心的项目。  
