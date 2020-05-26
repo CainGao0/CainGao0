@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MYSQL
+title: MYSQL的奇怪问题:varchar与数值比较
 date: 2020-05-22 00:00:00 +0300
 description: MYSQL的奇怪问题:varchar与数值比较
 img: mysql/mysql-log.png # Add image post (optional)
